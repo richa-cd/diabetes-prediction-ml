@@ -65,6 +65,17 @@ The trained models were deployed using Streamlit as a web application. Users can
 ## Ethical Disclaimer
 This project is for educational purposes only and should not be used as a substitute for professional medical diagnosis or treatment.
 
+## Deployment
+
+The trained machine learning models were deployed using Streamlit Cloud.
+The deployment process involved serializing trained models, managing dependencies,
+and hosting the application as a web-based interface.
+
+The application allows users to input medical parameters and receive real-time
+diabetes prediction using an ensemble of Logistic Regression and LDA models.
+
+Live Application:
+https://diabetes-prediction-ml-suhpleqhaqttbmkgkwwmvj.streamlit.app/
 
 ## Author
 Richa Dhiman
